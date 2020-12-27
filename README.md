@@ -35,16 +35,17 @@ BigSur可以用于11.1的系统
 
 ## 截图
 
-![1](/Users/liulu/Desktop/ASUS_B460m-p-10400-rx580reflashRX570/images/1.png)
+![1](images/1.png)
 
-![2](/Users/liulu/Desktop/ASUS_B460m-p-10400-rx580reflashRX570/images/2.png)
+![2](images/2.png)
 
-![3](/Users/liulu/Desktop/ASUS_B460m-p-10400-rx580reflashRX570/images/3.png)
+![3](images/3.png)
 
-![4](/Users/liulu/Desktop/ASUS_B460m-p-10400-rx580reflashRX570/images/4.png)
+![4](images/4.png)
 
-![5](/Users/liulu/Desktop/ASUS_B460m-p-10400-rx580reflashRX570/images/5.png)
+![5](images/5.png)
 
-![6](/Users/liulu/Desktop/ASUS_B460m-p-10400-rx580reflashRX570/images/6.png)
+![6](images/6.png)
 
-![7](/Users/liulu/Desktop/ASUS_B460m-p-10400-rx580reflashRX570/images/7.png)
+![7](images/7.png)
+
