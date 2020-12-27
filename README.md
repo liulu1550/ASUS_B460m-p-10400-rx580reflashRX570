@@ -35,7 +35,7 @@ BigSur可以用于11.1的系统
 
 ## 截图
 
-![1](images/1.png)
+![1](./images/1.png)
 
 ![2](images/2.png)
 
